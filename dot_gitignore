@@ -1,0 +1,16 @@
+# --- KDE Session & State Garbage ---
+*rc.lock
+*rc.new
+share/trash/
+.directory
+
+# --- History & Caches ---
+*history
+*recentfiles
+*cache/
+
+# --- OS Temporary Files ---
+*~
+*.bak
+*.swp
+*.tmp
