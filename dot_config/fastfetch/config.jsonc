@@ -1,0 +1,32 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "de",
+    "wm",
+    "wmtheme",
+    "cpu",
+    "gpu",
+    "memory",
+    "disk",
+    "break",
+    "colors"
+  ],
+    "logo": {
+      "source":"fedora",
+      "width":20
+}, "color":{
+  "1": "red",
+  "2": "blue"
+},
+"display": {
+    "separator": ": ",     // Separator between keys and values
+    "color": {
+        "keys": "blue",    // Key color
+        "title": "red"     // Title color
+    }}
+}
+
+

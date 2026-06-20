@@ -16,7 +16,7 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=/home/jabbarun/Downloads/wallhaven-wqvxr6_1920x1080.png
+Image=/home/jabbarun/Downloads/wallhaven-je8me5_1920x1080.png
 
 [Containments][2]
 activityId=
@@ -114,84 +114,51 @@ popupHeight=432
 popupWidth=432
 wallpaperplugin=org.kde.image
 
-[Containments][28][Applets][35][Applets][36]
-immutability=1
-plugin=org.kde.kdeconnect
-
-[Containments][28][Applets][35][Applets][37]
-immutability=1
-plugin=org.kde.plasma.vault
-
-[Containments][28][Applets][35][Applets][38]
-immutability=1
-plugin=org.kde.kscreen
-
-[Containments][28][Applets][35][Applets][39]
-immutability=1
-plugin=org.kde.plasma.cameraindicator
-
 [Containments][28][Applets][35][Applets][40]
 immutability=1
 plugin=org.kde.plasma.clipboard
-
-[Containments][28][Applets][35][Applets][41]
-immutability=1
-plugin=org.kde.plasma.devicenotifier
-
-[Containments][28][Applets][35][Applets][42]
-immutability=1
-plugin=org.kde.plasma.keyboardindicator
-
-[Containments][28][Applets][35][Applets][43]
-immutability=1
-plugin=org.kde.plasma.keyboardlayout
-
-[Containments][28][Applets][35][Applets][44]
-immutability=1
-plugin=org.kde.plasma.manage-inputmethod
-
-[Containments][28][Applets][35][Applets][45]
-immutability=1
-plugin=org.kde.plasma.networkmanagement
 
 [Containments][28][Applets][35][Applets][46]
 immutability=1
 plugin=org.kde.plasma.notifications
 
-[Containments][28][Applets][35][Applets][47]
-immutability=1
-plugin=org.kde.plasma.printmanager
-
-[Containments][28][Applets][35][Applets][48]
+[Containments][28][Applets][35][Applets][55]
 immutability=1
 plugin=org.kde.plasma.volume
 
-[Containments][28][Applets][35][Applets][48][Configuration][General]
+[Containments][28][Applets][35][Applets][55][Configuration][General]
 migrated=true
 
-[Containments][28][Applets][35][Applets][49]
+[Containments][28][Applets][35][Applets][56]
 immutability=1
-plugin=org.kde.plasma.weather
+plugin=org.kde.plasma.keyboardlayout
 
-[Containments][28][Applets][35][Applets][50]
-immutability=1
-plugin=org.kde.plasma.battery
-
-[Containments][28][Applets][35][Applets][51]
-immutability=1
-plugin=org.kde.plasma.brightness
-
-[Containments][28][Applets][35][Applets][52]
-immutability=1
-plugin=org.kde.plasma.mediacontroller
-
-[Containments][28][Applets][35][Applets][53]
+[Containments][28][Applets][35][Applets][57]
 immutability=1
 plugin=org.kde.plasma.bluetooth
 
+[Containments][28][Applets][35][Applets][58]
+immutability=1
+plugin=org.kde.plasma.brightness
+
+[Containments][28][Applets][35][Applets][59]
+immutability=1
+plugin=org.kde.plasma.battery
+
+[Containments][28][Applets][35][Applets][60]
+immutability=1
+plugin=org.kde.plasma.networkmanagement
+
+[Containments][28][Applets][35][ConfigDialog]
+DialogHeight=630
+DialogWidth=810
+
 [Containments][28][Applets][35][General]
-extraItems=org.kde.kdeconnect,org.kde.plasma.vault,org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.volume,org.kde.plasma.weather
+extraItems=org.kde.plasma.notifications,org.kde.plasma.clipboard,org.kde.plasma.volume,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.keyboardlayout,org.kde.plasma.battery,org.kde.plasma.networkmanagement
+hiddenItems=org.kde.plasma.notifications,org.kde.plasma.clipboard,1,org.kde.plasma.bluetooth,org.kde.plasma.keyboardlayout
+iconSpacing=6
 knownItems=org.kde.kdeconnect,org.kde.plasma.vault,org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.volume,org.kde.plasma.weather
+shownItems=org.kde.plasma.volume,org.kde.plasma.brightness,org.kde.plasma.battery,org.kde.plasma.networkmanagement
 
 [Containments][28][General]
 AppletOrder=29;32;35;33

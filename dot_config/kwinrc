@@ -1,14 +1,19 @@
 [Desktops]
 Id_1=93dfb17a-0c26-4ac6-8215-a636ccf54b91
-Id_2=d7f4b8d3-2d32-410b-aa92-e345eb579698
+Id_2=2fb29aa9-2fe9-4491-b3c0-74da9f7fc8b2
 Number=2
 Rows=1
 
 [Plugins]
+blurEnabled=true
 cubeEnabled=true
 hidecursorEnabled=true
 translucencyEnabled=true
 wobblywindowsEnabled=true
+
+[Tiling][2fb29aa9-2fe9-4491-b3c0-74da9f7fc8b2][9925bb6c-7244-4890-bbdd-2595274938ee]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][93dfb17a-0c26-4ac6-8215-a636ccf54b91][9925bb6c-7244-4890-bbdd-2595274938ee]
 padding=4
