@@ -1,13 +1,15 @@
 [Desktops]
 Id_1=93dfb17a-0c26-4ac6-8215-a636ccf54b91
 Id_2=2fb29aa9-2fe9-4491-b3c0-74da9f7fc8b2
-Number=2
+Id_3=f31b2365-d223-4cd6-8e49-8bc160bb0025
+Number=3
 Rows=1
 
 [Plugins]
 blurEnabled=true
 cubeEnabled=true
 hidecursorEnabled=true
+krohnkiteEnabled=false
 translucencyEnabled=true
 wobblywindowsEnabled=true
 
@@ -23,9 +25,16 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][f31b2365-d223-4cd6-8e49-8bc160bb0025][9925bb6c-7244-4890-bbdd-2595274938ee]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][fa5b34cd-f8bd-460c-8803-5edc4903ef4b][9925bb6c-7244-4890-bbdd-2595274938ee]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Xwayland]
 Scale=1
+
+[org.kde.kdecoration2]
+library=org.kde.kwin.aurorae.v2
