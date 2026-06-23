@@ -21,13 +21,13 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=120,85,45
+BackgroundAlternate=55,63,60
 BackgroundNormal=49,54,61
-DecorationFocus=151,99,39
-DecorationHover=151,99,39
-ForegroundActive=151,99,39
+DecorationFocus=58,68,60
+DecorationHover=58,68,60
+ForegroundActive=58,68,60
 ForegroundInactive=102,106,115
-ForegroundLink=250,186,133
+ForegroundLink=169,198,174
 ForegroundNegative=237,37,78
 ForegroundNeutral=255,106,0
 ForegroundNormal=195,199,209
@@ -35,19 +35,19 @@ ForegroundPositive=113,247,159
 ForegroundVisited=82,148,226
 
 [Colors:Complementary]
-DecorationFocus=151,99,39
-DecorationHover=151,99,39
-ForegroundActive=151,99,39
-ForegroundLink=250,186,133
+DecorationFocus=58,68,60
+DecorationHover=58,68,60
+ForegroundActive=58,68,60
+ForegroundLink=169,198,174
 
 [Colors:Selection]
-BackgroundAlternate=110,74,33
-BackgroundNormal=110,74,33
-DecorationFocus=151,99,39
-DecorationHover=151,99,39
-ForegroundActive=151,99,39
+BackgroundAlternate=45,52,47
+BackgroundNormal=45,52,47
+DecorationFocus=58,68,60
+DecorationHover=58,68,60
+ForegroundActive=58,68,60
 ForegroundInactive=255,255,255
-ForegroundLink=110,72,28
+ForegroundLink=42,50,44
 ForegroundNegative=237,37,78
 ForegroundNeutral=255,106,0
 ForegroundNormal=255,255,255
@@ -57,11 +57,11 @@ ForegroundVisited=189,195,199
 [Colors:Tooltip]
 BackgroundAlternate=47,52,63
 BackgroundNormal=53,57,69
-DecorationFocus=151,99,39
-DecorationHover=151,99,39
-ForegroundActive=151,99,39
+DecorationFocus=58,68,60
+DecorationHover=58,68,60
+ForegroundActive=58,68,60
 ForegroundInactive=102,106,115
-ForegroundLink=250,186,133
+ForegroundLink=169,198,174
 ForegroundNegative=237,37,78
 ForegroundNeutral=255,106,0
 ForegroundNormal=211,218,227
@@ -71,11 +71,11 @@ ForegroundVisited=82,148,226
 [Colors:View]
 BackgroundAlternate=31,35,51
 BackgroundNormal=16,16,19
-DecorationFocus=151,99,39
-DecorationHover=151,99,39
-ForegroundActive=151,99,39
+DecorationFocus=58,68,60
+DecorationHover=58,68,60
+ForegroundActive=58,68,60
 ForegroundInactive=102,106,115
-ForegroundLink=250,186,133
+ForegroundLink=169,198,174
 ForegroundNegative=237,37,78
 ForegroundNeutral=255,106,0
 ForegroundNormal=211,218,227
@@ -85,11 +85,11 @@ ForegroundVisited=124,183,255
 [Colors:Window]
 BackgroundAlternate=47,52,63
 BackgroundNormal=28,28,33
-DecorationFocus=151,99,39
-DecorationHover=151,99,39
-ForegroundActive=151,99,39
+DecorationFocus=58,68,60
+DecorationHover=58,68,60
+ForegroundActive=58,68,60
 ForegroundInactive=102,106,115
-ForegroundLink=250,186,133
+ForegroundLink=169,198,174
 ForegroundNegative=237,37,78
 ForegroundNeutral=255,106,0
 ForegroundNormal=211,218,227
@@ -97,23 +97,23 @@ ForegroundPositive=113,247,159
 ForegroundVisited=179,13,191
 
 [General]
-AccentColor=151,99,39
+AccentColor=58,68,60
+ColorScheme=SweetAmbarBlue
 ColorSchemeHash=f6df0e9f12a4783afd65d81532865d4d86848c5e
-LastUsedCustomAccentColor=171,91,19
+LastUsedCustomAccentColor=58,68,60
 XftAntialias=true
 XftHintStyle=hintmedium
 XftSubPixel=rgb
-accentColorFromWallpaper=true
 font=JetBrains Mono,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
 menuFont=JetBrains Mono,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
 smallestReadableFont=JetBrains Mono,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
 toolBarFont=JetBrains Mono,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
 
 [Icons]
-Theme=Tela-circle-light
+Theme=Papirus-Light
 
 [KDE]
-LookAndFeelPackage=Sweet-Mars
+LookAndFeelPackage=org.kde.breezedark.desktop
 contrast=4
 frameContrast=0.2
 
@@ -126,7 +126,7 @@ Show Full Path=false
 Show Inline Previews=true
 Show Preview=false
 Show Speedbar=true
-Show hidden files=true
+Show hidden files=false
 Sort by=Name
 Sort directories first=true
 Sort hidden files last=false
